@@ -8,10 +8,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Magalhaes-dev&theme=tokyonight" alt="Profile Summary"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Magalhaes-dev&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Magalhaes-dev&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -20,7 +19,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-215b99?style=for-the-badge&logo=react&logoColor=white)
 ![Html](https://img.shields.io/badge/html-e63d1f?style=for-the-badge&logo=Html5&logoColor=white)
-![Firebase](https://img.shields.io/badge/Sass-a2828c?style=for-the-badge&logo=Sass&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### Backend & Databases
