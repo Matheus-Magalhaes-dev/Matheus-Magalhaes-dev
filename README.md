@@ -21,8 +21,14 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Sou desenvolvedor **Full Stack** em constante evolução, com experiência em **Frontend, Backend e Bancos de Dados**.  
-Atualmente focado em **Python, SQL e desenvolvimento web**, aplicando esse conhecimento em projetos reais de automação, APIs e aplicações completas.
+Busco minha primeira experiência profissional como **Jovem Aprendiz na área de Tecnologia da Informação**, onde eu possa contribuir com meus conhecimentos, evoluir constantemente e me desafiar em novos projetos.  
+Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas, sempre buscando inovação e eficiência na resolução de problemas.
+
+---
+
+## 🎓 Formação Acadêmica
+- ✅ **Curso Técnico em Informática** – Instituto Nossa Senhora de Fátima (1200 horas)  
+- 📚 **Ensino Superior em Sistemas de Informação** – SENAC Santo Amaro (2026 – 2029, em andamento)  
 
 ---
 
@@ -64,7 +70,6 @@ Atualmente focado em **Python, SQL e desenvolvimento web**, aplicando esse conhe
 
 </div>
 
-
 ---
 
 ## 📊 Estatísticas
@@ -96,7 +101,9 @@ Atualmente focado em **Python, SQL e desenvolvimento web**, aplicando esse conhe
 
 <div align="center">
 
-[![Projeto-Destaque](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Magalhaes-dev&repo=Greenfield&theme=tokyonight&title_color=6A5ACD&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=1E90FF)](https://github.com/Matheus-Magalhaes-dev/Greenfield)
+
+[![Greenfield](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Magalhaes-dev&repo=Greenfield&theme=tokyonight&title_color=6A5ACD&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=1E90FF)](https://github.com/Matheus-Magalhaes-dev/Greenfield)
+
 
 </div>
 
