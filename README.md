@@ -101,11 +101,19 @@ Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas,
 
 <div align="center">
 
+### 🛍️ [Greenfield](https://github.com/Matheus-Magalhaes-dev/Greenfield)
+Aplicação **E‑commerce** desenvolvida com foco em experiência do usuário e integração entre **frontend** e **backend**.  
+O projeto utiliza **JavaScript**, **React.js**, **Sass** e **SQL** para criar uma plataforma completa de compras online, com carrinho funcional e interface moderna.
 
-[![Greenfield](https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Magalhaes-dev&repo=Greenfield&theme=tokyonight&title_color=6A5ACD&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=1E90FF)](https://github.com/Matheus-Magalhaes-dev/Greenfield)
+<br/>
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
+
 
 ---
 
