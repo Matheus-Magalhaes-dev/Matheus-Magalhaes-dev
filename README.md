@@ -17,7 +17,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Busco minha primeira experiência profissional como **Jovem Aprendiz na área de Tecnologia da Informação**, onde eu possa contribuir com meus conhecimentos, evoluir constantemente e me desafiar em novos projetos.  
+Busco minha primeira experiência profissional como **Jovem Aprendiz/Estágio na área de Tecnologia da Informação**, onde eu possa contribuir com meus conhecimentos, evoluir constantemente e me desafiar em novos projetos.  
 Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas, sempre buscando inovação e eficiência na resolução de problemas.
 
 ---
