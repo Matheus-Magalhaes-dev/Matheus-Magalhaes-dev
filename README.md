@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Magalhaes-dev/Matheus-Magalhaes-dev/main/banner.jpg" width="100%" alt="banner"/>
-</div>
 
 <!-- TÍTULO -->
 <div align="center">
@@ -26,9 +22,14 @@ Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas,
 
 ---
 
-## 🎓 Formação Acadêmica
-- ✅ **Curso Técnico em Informática** – Instituto Nossa Senhora de Fátima (1200 horas)  
-- 📚 **Ensino Superior em Sistemas de Informação** – SENAC Santo Amaro (2026 – 2029, em andamento)  
+## 🎓 Formações Acadêmicas e Cursos
+
+| | Curso | Status |
+|:---:|:---|:---:|
+| ◈ | Curso Técnico em Informática – Instituto Nossa Senhora de Fátima (1200 horas) | ✅ Concluído |
+| ◈ | Ensino Superior em Sistemas de Informação – SENAC Santo Amaro (2026 – 2029) | 🔄 Em andamento |
+
+
 
 ---
 
