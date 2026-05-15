@@ -1,14 +1,14 @@
 # Matheus Magalhães
 ### Desenvolvedor de Software | Full Stack Developer  
 
-[![Linkedin Badge](https://img.shields.io/badge/-matheus-magalhães2805-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin)  
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Magalhães-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin)](https://www.linkedin.com/in/seu-linkedin)  
 [![Gmail Badge](https://img.shields.io/badge/-magmatheusf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magmatheusf@gmail.com)](mailto:magmatheusf@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Magalhaes-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Magalhaes-dev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus-Magalhaes-dev&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Magalhaes-dev&layout=compact&theme=tokyonight)
 
 ---
 
@@ -36,14 +36,9 @@
 ---
 
 ## 🚀 Projetos em Destaque
-- 🔹 [Projeto 1](https://github.com/Matheus-Magalhaes-dev/projeto1) – Aplicação Full Stack com React e Node.js  
-- 🔹 [Projeto 2](https://github.com/Matheus-Magalhaes-dev/projeto2) – API REST em Java + MySQL  
-- 🔹 [Projeto 3](https://github.com/Matheus-Magalhaes-dev/projeto3) – Scripts em Python para automação  
-
----
-
-## 🐍 Contribuições Animadas
-![Snake animation](https://github.com/Matheus-Magalhaes-dev/Matheus-Magalhaes-dev/blob/output/github-contribution-grid-snake.svg)
+- 🔹 [Aplicação Full Stack com React e Node.js](https://github.com/Matheus-Magalhaes-dev/projeto1)  
+- 🔹 [API REST em Java + MySQL](https://github.com/Matheus-Magalhaes-dev/projeto2)  
+- 🔹 [Scripts em Python para automação](https://github.com/Matheus-Magalhaes-dev/projeto3)
 
 ---
 
