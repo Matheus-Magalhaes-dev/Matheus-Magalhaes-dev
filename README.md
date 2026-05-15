@@ -77,12 +77,12 @@ Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Matheus-Magalhaes-dev&theme=tokyonight&ring=6A5ACD&fire=1E90FF&currStreakLabel=6A5ACD&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=6A5ACD" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=MagalhaesMDev&theme=tokyonight&ring=6A5ACD&fire=1E90FF&currStreakLabel=6A5ACD&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=6A5ACD" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Magalhaes-dev&show_icons=true&theme=tokyonight&title_color=6A5ACD&icon_color=1E90FF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Magalhaes-dev&layout=compact&theme=tokyonight&title_color=6A5ACD&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesMDev&show_icons=true&theme=tokyonight&title_color=6A5ACD&icon_color=1E90FF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesMDev&layout=compact&theme=tokyonight&title_color=6A5ACD&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas,
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Magalhaes-dev&bg_color=0d0d0d&color=6A5ACD&line=1E90FF&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=6A5ACD)](https://github.com/Matheus-Magalhaes-dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MagalhaesMDev&bg_color=0d0d0d&color=6A5ACD&line=1E90FF&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=6A5ACD)](https://github.com/MagalhaesMDev)
 
 </div>
 
@@ -102,7 +102,7 @@ Comprometo-me a colaborar com a equipe e aprimorar minhas habilidades técnicas,
 
 <div align="center">
 
-### 🛍️ [Greenfield](https://github.com/Matheus-Magalhaes-dev/Greenfield)
+### 🛍️ [Greenfield](https://github.com/MagalhaesMDev/Greenfield)
 Aplicação **E‑commerce** desenvolvida com foco em experiência do usuário e integração entre **frontend** e **backend**.  
 O projeto utiliza **JavaScript**, **React.js**, **Sass** e **SQL** para criar uma plataforma completa de compras online, com carrinho funcional e interface moderna.
 
@@ -119,4 +119,4 @@ O projeto utiliza **JavaScript**, **React.js**, **Sass** e **SQL** para criar um
 ---
 
 ## 👀 Contador de Visitantes
-![Visitor Count](https://komarev.com/ghpvc/?username=Matheus-Magalhaes-dev&color=6A5ACD&style=flat-square&label=VISITAS)
+![Visitor Count](https://komarev.com/ghpvc/?username=MagalhaesMDev&color=6A5ACD&style=flat-square&label=VISITAS)
